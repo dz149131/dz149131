@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dz149131
 - 👀 I’m interested in tech and software dev
-- 🌱 I’m currently learning #Javascript
+- 🌱 I’m currently learning #Javascript, #Nodejs, #Express
 - 💞️ I’m looking to collaborate on projects that will challange me 
 - 📫 How to reach me dz149131@gmail.com
 
