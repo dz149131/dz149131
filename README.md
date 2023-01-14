@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @dz149131
-- 👀 I’m interested in tech and software dev
-- 🌱 I’m currently learning #Javascript, #Nodejs, #Express
-- 💞️ I’m looking to collaborate on projects that will challange me 
-- 📫 How to reach me dz149131@gmail.com
+<h1>👋 Hey, There</h1>
+<br>
+<p>
+  My name is Danny and a Front End devloper who loves to work with Javascript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. 
+  </p>
+<h1>🔧 Technologies & Tools</h1>
+<p>
+  Javascript / React / CSS / npm / Bootstrap / Git
+  </p>
+
+
 <!---
 dz149131/dz149131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
