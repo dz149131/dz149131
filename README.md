@@ -7,7 +7,7 @@
   </p>
 <h1>Technologies & Tools</h1>
 <p>
-  Javascript / React / CSS / npm / Bootstrap / Git
+  Javascript / React / CSS / npm / Bootstrap / Git / MongoDB / Express.js
   </p>
   <h1>Getting in touch</h1>
   <a href="https://www.linkedin.com/in/da-nny-zhang/">Linkedin</a>
