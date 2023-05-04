@@ -4,7 +4,7 @@
 
 ## **About**
 
-  My name is Danny and a Full-Stack Developer who loves to work with Javascript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. 
+  My name is Danny and a Software Developer who loves to work with Javascript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. 
   
 ## **Languages & Tools**
 
