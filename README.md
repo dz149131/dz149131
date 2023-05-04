@@ -43,5 +43,4 @@
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
 
  <!-- EMAIL -->
-<a href=">dz149131@gmail.com">
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="40"></a>
+<a href="mailto:dz149131@gmail.com">dz149131@gmail.com</a>
