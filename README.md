@@ -37,12 +37,21 @@
 <!-- LINKEDIN -->
  <a href="https://www.linkedin.com/in/da-nny-zhang/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
+  
+  <!-- EMAIL -->
+<a href="mailto:dz149131@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br>
+
+ <!-- Discord -->
+<a href="https://discord.com/users/810319222835642368">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 <!-- TWITTER -->
 <a href="https://twitter.com/danny24629781">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
- <!-- EMAIL -->
-<a href="mailto:dz149131@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
