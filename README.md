@@ -36,11 +36,13 @@
 ## **Contact**
 <!-- LINKEDIN -->
  <a href="https://www.linkedin.com/in/da-nny-zhang/">
-  <img src="https://logos-world.net/imageup/Linkedin/Linkedin-Logo-PNG3.png" width="40"></a>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 <!-- TWITTER -->
 <a href="https://twitter.com/danny24629781">
-  <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
  <!-- EMAIL -->
-<a href="mailto:dz149131@gmail.com">dz149131@gmail.com</a>
+<a href="mailto:dz149131@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
