@@ -28,9 +28,9 @@
 
 <div align="left">
 <!-- MongoDB -->
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg?style=for-the-badge&color=25242A">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <!-- Express -->
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 </div>
   
 ## **Contact**
